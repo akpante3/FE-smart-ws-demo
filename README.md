@@ -132,9 +132,6 @@ This project shows understanding of networking, reliability, React, and TypeScri
 
 * events
 
+📄 License
 
-
-
-
-
-# FE-smart-ws-demo
+MIT © 2025 Victor Obije
