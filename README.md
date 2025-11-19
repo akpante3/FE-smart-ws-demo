@@ -1,5 +1,7 @@
 # smart-ws-demo
 
+**CLONE SERVER SIDE:** https://github.com/akpante3/smart-ws-test-server
+
 A **React demo app** showcasing [`smart-ws`](https://www.npmjs.com/package/smart-ws) – a resilient WebSocket client with:
 
 - Auto-reconnect (with exponential backoff)
@@ -15,8 +17,8 @@ Open it in 2–3 browser tabs, type messages, and watch them appear everywhere i
 
 ## 🔗 Related Projects
 
-- **Core library (smart-ws):** https://github.com/your-name/smart-ws  
-- **This demo (smart-ws-demo):** https://github.com/your-name/smart-ws-demo *(placeholder)*  
+- **Core library (smart-ws):** [NPM](https://www.npmjs.com/package/smart-ws)  
+- **Server (smart-ws-demo):** [REPO](https://github.com/akpante3/smart-ws-test-server)  
 
 ---
 
