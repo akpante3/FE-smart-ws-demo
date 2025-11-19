@@ -1,6 +1,6 @@
 # smart-ws-demo
-
-**CLONE SERVER SIDE:** https://github.com/akpante3/smart-ws-test-server
+**CLONE THIS REPO**
+**CLONE SERVER SIDE TOO:** https://github.com/akpante3/smart-ws-test-server
 
 A **React demo app** showcasing [`smart-ws`](https://www.npmjs.com/package/smart-ws) – a resilient WebSocket client with:
 
