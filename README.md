@@ -1,5 +1,7 @@
 # smart-ws-demo
 **CLONE THIS REPO**
+
+
 **CLONE SERVER SIDE TOO:** https://github.com/akpante3/smart-ws-test-server
 
 A **React demo app** showcasing [`smart-ws`](https://www.npmjs.com/package/smart-ws) – a resilient WebSocket client with:
@@ -113,13 +115,13 @@ Basic comfort with running terminal commands
 
 ## 🧑‍💻 Who is this for?
 
-Developers who want to learn real-time web with WebSockets
+* Developers who want to learn real-time web with WebSockets
 
-Engineers evaluating smart-ws as a WebSocket client
+* Engineers evaluating smart-ws as a WebSocket client
 
-Recruiters/CTOs reviewing your portfolio:
+* Recruiters/CTOs reviewing your portfolio:
 
-This project shows understanding of networking, reliability, React, and TypeScript
+* This project shows understanding of networking, reliability, React, and TypeScript
 
 
 ## Full status tracking
